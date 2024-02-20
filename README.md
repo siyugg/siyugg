@@ -1,4 +1,3 @@
-[README.md](https://github.com/siyugg/siyugg/files/14346010/README.md)
 <h1 align="center">Hi 👋, I'm Siyu</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
