@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siyu</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on [Authentic8](https://github.com/siyugg/Authentic8-dApp)
+- 🔭 I’m currently working on [AuChain](https://github.com/siyugg/AuChain)
 
-- 🌱 I’m currently learning **ReactJS, React Native, AWS,**
+- 🌱 I’m currently learning **ReactJS, React Native, AWS**
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Python, Blockchain developemnt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
