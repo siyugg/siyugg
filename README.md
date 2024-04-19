@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [AuChain](https://github.com/siyugg/AuChain)
 
-- 🌱 I’m currently learning **ReactJS, React Native, AWS**
+- 🌱 I’m currently learning **ReactJS, React Native, AWS, Java**
 
-- 💬 Ask me about **Python, Blockchain developemnt**
+- 💬 Ask me about **Web Development, Blockchain developemnt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
